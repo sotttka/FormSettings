@@ -1,0 +1,17 @@
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\bin\Debug\net6.0-windows\FormSettings.exe
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\bin\Debug\net6.0-windows\FormSettings.deps.json
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\bin\Debug\net6.0-windows\FormSettings.runtimeconfig.json
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\bin\Debug\net6.0-windows\FormSettings.dll
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\bin\Debug\net6.0-windows\FormSettings.pdb
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.csproj.AssemblyReference.cache
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.Form1.resources
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.csproj.GenerateResource.cache
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.AssemblyInfoInputs.cache
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.AssemblyInfo.cs
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.csproj.CoreCompileInputs.cache
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.dll
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\refint\FormSettings.dll
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.pdb
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\FormSettings.genruntimeconfig.cache
+C:\Users\Sotka\Desktop\projects\FormSettings\FormSettings\obj\Debug\net6.0-windows\ref\FormSettings.dll
